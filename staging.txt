@@ -1,0 +1,6 @@
+[db]
+db_name = nama
+db_address = address
+db_port = port
+db_password = password
+db_username = username
